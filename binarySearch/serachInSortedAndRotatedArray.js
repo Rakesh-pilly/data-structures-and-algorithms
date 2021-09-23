@@ -3,8 +3,7 @@
 
 // Given a sorted(increasing order) array of length n and is rotated by some value beforehand. Find the index of the target element  K in the rotated array in O(logn) time. If not found print -1.
 
-// input = 5 1
-// 3 4 5 1 2
+// input = 5 1 // 3 4 5 1 2
 
 
 // --------------------bruteforces approches --------------------
